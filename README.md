@@ -6,13 +6,12 @@ The instructions are based on a Linux server
 
 # Table of Contents
 
-- Prerequisites
-  - [Install Docker](#install-docker-engine)
-  - [Install PostgreSQL & pgvector](#install-postgresql-pgvector)
-  - [Firewall Configuration](#firewall-configuration)
-  - [Setup pgAdmin](#setup-pgadmin)
-  - [Load data into DB](#load-data-into-db)
-  - [Retrieve data from DB](#retrieve-data-from-db)
+- [Install Docker](#install-docker-engine)
+- [Install PostgreSQL & pgvector](#install-postgresql-pgvector)
+- [Firewall Configuration](#firewall-configuration)
+- [Setup pgAdmin](#setup-pgadmin)
+- [Load data into DB](#load-data-into-db)
+- [Retrieve data from DB](#retrieve-data-from-db)
 
 ---
 
