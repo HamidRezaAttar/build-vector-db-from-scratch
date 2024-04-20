@@ -109,7 +109,7 @@ Now you have successfully installed both
 
 #### Right-click on Servers and register a new server. Give it a name and in the Connection tab, add your hostname and set your username and password based on the settings you set in your *docker-compose.yml* file. (*POSTGRES_USER, POSTGRES_PASSWORD*)
 
-<img src="images/pgAdmin.PNG" width="600" height="500" />
+<img src="images/pgAdmin.png" width="600" height="500" />
 
 ---
 
